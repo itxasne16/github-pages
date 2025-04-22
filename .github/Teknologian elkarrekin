@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teknologian Elkarrekin</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(135deg, #dff1ff, #fde2e2);
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #1e88e5;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    .content {
+      background: #fff;
+      border-radius: 1rem;
+      padding: 2rem;
+      max-width: 700px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+    .footer {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Teknologian Elkarrekin</h1>
+
+  <div class="content">
+    <p>Gure egunerokoan ikusten da jende nagusia zailtasunak dituela teknologiarekin. Nire aitite eta amamari laguntzen diet nik eta horregatik pentsatzen dut norbait egon behar dela mundu guztiak ikasteko eta nire aititen moduan jakiteko gauzak nola egiten diren.</p>
+    <p>Nire motibazio nagusia jendeari laguntzea denez aukera hau aprobetxatu dot nagusiei laguntzeko.</p>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 Teknologian Elkarrekin
+  </div>
+
+</body>
+</html>
